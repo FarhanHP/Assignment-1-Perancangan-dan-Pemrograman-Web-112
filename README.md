@@ -5,18 +5,18 @@ Terdapat beberapa aktor pada aplikasi ini yaitu, Owner selaku pemilik toko, Empl
 
 setiap aktor memiliki kemampuan masing - masing.
 Owner :
-->mampu mengangkat atau memecat Employee
-->CRUD produk yang ada di toko
-->Edit profil
+  ->mampu mengangkat atau memecat Employee
+  ->CRUD produk yang ada di toko
+  ->Edit profil
 
 Employee:
-->CRUD produk yang ada di toko
-->Edit Profil
+  ->CRUD produk yang ada di toko
+  ->Edit Profil
 
 Customer:
-->Membeli produk
-->Edit Profil
+  ->Membeli produk
+  ->Edit Profil
 
 Guest:
-->login
-->register
+  ->login
+  ->register
