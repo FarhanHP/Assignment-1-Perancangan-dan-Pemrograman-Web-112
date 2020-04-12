@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"olshop.product_delete_history"}],"uuid":"b28324f26fb440b8ab4ca6ec3445c0b8"}
