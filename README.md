@@ -48,3 +48,16 @@ Olshop adalah aplikasi desktop yang diperuntukan agar pemilik toko bisa men-digi
 ## Video Tentang Aplikasi ini:
 Anda dapat melihat video demonstrasi dari aplikasi ini pada tautan berikut :
 https://www.youtube.com/watch?v=wIjgcr0sQUU
+
+## Daftar Akun:
+### Owner :
+* username : olshopOwner
+* password : 12345678
+### Karyawan :
+* username : gambutUdin232
+* password : nanas31110
+* sisanya dapat dilihat pada mongoshell
+
+### Costumer :
+* username : farhanhp
+* password : 12345678
