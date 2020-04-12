@@ -45,5 +45,6 @@ Olshop adalah aplikasi desktop yang diperuntukan agar pemilik toko bisa men-digi
   > mongorestore -d olshop (lokasi folder dump)/dump
 * Jalankan file app/main.py
   
- ## Video Tentang Aplikasi ini:
- Coming Soon
+## Video Tentang Aplikasi ini:
+Anda dapat melihat video demonstrasi dari aplikasi ini pada tautan berikut :
+https://www.youtube.com/watch?v=wIjgcr0sQUU
