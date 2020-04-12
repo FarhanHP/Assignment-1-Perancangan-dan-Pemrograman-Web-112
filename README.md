@@ -42,7 +42,7 @@ Olshop adalah aplikasi desktop yang diperuntukan agar pemilik toko bisa men-digi
 ## Cara Menjalankan App:
 * Aktifkan MongoDB
 * Export database pada folder dumb dengan cara:
-  > mongorestore -d olshop (lokasi folder dumb)/dumb
+  > mongorestore -d olshop (lokasi folder dump)/dump
 * Jalankan file app/main.py
   
  ## Video Tentang Aplikasi ini:
