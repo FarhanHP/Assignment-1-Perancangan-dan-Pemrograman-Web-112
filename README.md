@@ -2,6 +2,8 @@
 
 Olshop adalah aplikasi desktop yang diperuntukan agar pemilik toko bisa men-digitalisasi toko mereka. Terdapat beberapa aktor pada aplikasi ini yaitu, Owner selaku pemilik toko, Employee selaku karyawan toko, Customer sebagai pelanggan toko, dan Guest yang merupakan tamu yang belum membuat akun.
 
+![](https://github.com/FarhanHP/olshop/blob/master/docs/Screenshot%20from%202021-11-16%2020-15-31.png)
+
 ## Fitur Aplikasi:
 
 ### Owner : 
